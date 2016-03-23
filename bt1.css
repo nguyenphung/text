@@ -1,0 +1,78 @@
+.canhgiua
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#topmenu ul {
+	
+  	list-style-type: none;
+  	text-align: center;
+}
+
+* {
+ 	margin: 0;
+ 	padding: 0;
+}
+ 
+body {
+	font-family: sans-serif;
+ 	color: #333;
+}
+
+#topmenu li {
+  	color: #f1f1f1;
+  	display: inline-block;
+  	width: 300px;
+  	height: 40px;
+  	line-height: 40px;
+  	margin-left: -5px;
+}
+
+#topmenu a {
+  	text-decoration: none;
+  	color: black;
+  	display: block;
+}
+#topmenu a:hover {
+  	background: blue;
+    color: #fff;
+}
+
+#leftmenu li{
+    display: table;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 150px;
+}
+
+#leftmenu a {
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+#leftmenu a:hover {
+    background: black;
+    color: #fff;
+}
+
+#infor1 {
+    display: block;
+    margin-left: 400;
+    margin-top:  -60;
+}
+
+#infor1 h2 {
+    margin-left: 240;
+}
+
+#infor1 img{
+    margin-top: 20px;
+}
+
+#infor2{
+    display: inline;
+}
